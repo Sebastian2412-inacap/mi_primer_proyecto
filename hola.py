@@ -5,7 +5,8 @@ valor=0
 while valor==0:
 
     print('¿corneta?: si/no')
-    respuesta=input(str('Diga respuesta'.lower))
+    respuesta=input('respuesta: ')
+
 
     if respuesta == 'si':
 
